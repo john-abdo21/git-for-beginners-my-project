@@ -1,5 +1,5 @@
 Wecome to MyProject!
 
-Author: Thomas Huber
+Author: Thomas Claudin Huber
 
 Twitter: @thomasclaudiush
