@@ -1,5 +1,5 @@
 Wecome to MyProject!
 
-Author: Thomas
+Author: Thomas Claudin
 
 Twitter: @thomasclaudiush
